@@ -15,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - Montanha
+  - Arvore
   - AreaSegura
   - 
   - 
@@ -55,7 +55,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Montanha
+  - name: Arvore
     uniqueID: 1445103051
     locked: 0
   - name: AreaSegura
